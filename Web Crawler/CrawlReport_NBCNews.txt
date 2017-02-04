@@ -1,0 +1,42 @@
+Name: Naman Avasthi
+USC ID: 9216625985
+News site crawled: nbcnews.com
+
+Fetch Statistics
+================
+# fetches attempted: 9999
+# fetches succeeded: 9790
+# fetches aborted: 0
+# fetches failed: 209
+
+Outgoing URLs
+=============
+Total URLs extracted: 378843
+# unique URLs extracted: 110057
+# unique URLs within News Site: 22598
+# unique URLs outside News Site: 87459
+
+Status Codes
+============
+200 OK: 9790
+301 Moved Permanently: 69
+401 Unauthorized: 0
+403 Forbidden: 0
+404 Not Found: 138
+
+File Sizes
+==========
+< 1KB: 1
+1KB ~ <10KB: 0
+10KB ~ <100KB: 5187
+100KB ~ <1MB: 4574
+>= 1MB: 28
+
+Content Types
+=============
+text/html: 9788
+image/gif: 0
+image/tif: 0
+image/jpeg: 0
+image/png: 1
+application/pdf: 0

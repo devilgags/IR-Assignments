@@ -1,0 +1,42 @@
+Name: Naman Avasthi
+USC ID: 9216625985
+News site crawled: wsj.com
+
+Fetch Statistics
+================
+# fetches attempted: 9995
+# fetches succeeded: 3798
+# fetches aborted: 0
+# fetches failed: 6197
+
+Outgoing URLs
+=============
+Total URLs extracted: 344643
+# unique URLs extracted: 37029
+# unique URLs within News Site: 18720
+# unique URLs outside News Site: 18309
+
+Status Codes
+============
+200 OK: 3798
+301 Moved Permanently: 6138
+401 Unauthorized: 0
+403 Forbidden: 0
+404 Not Found: 40
+
+File Sizes
+==========
+< 1KB: 7
+1KB ~ <10KB: 35
+10KB ~ <100KB: 2500
+100KB ~ <1MB: 1251
+>= 1MB: 5
+
+Content Types
+=============
+text/html: 3739
+image/gif: 29
+image/tif: 0
+image/jpeg: 10
+image/png: 2
+application/pdf: 0
